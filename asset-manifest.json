@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KatherineZQ/test-react/static/css/main.b10ce008.css",
+    "main.js": "/KatherineZQ/test-react/static/js/main.bf6fd11f.js",
+    "index.html": "/KatherineZQ/test-react/index.html",
+    "main.b10ce008.css.map": "/KatherineZQ/test-react/static/css/main.b10ce008.css.map",
+    "main.bf6fd11f.js.map": "/KatherineZQ/test-react/static/js/main.bf6fd11f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10ce008.css",
+    "static/js/main.bf6fd11f.js"
+  ]
+}
